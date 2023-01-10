@@ -31,7 +31,5 @@ public class Main {
         }
         results.close();
         source.close();
-
-        System.out.println("hola");
     }
 }
